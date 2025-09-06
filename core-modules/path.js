@@ -10,4 +10,4 @@ console.log("directoryname :",path.dirname(filepath));
 console.log("extension name:",path.extname(filepath));
 
 //test.txt
-console.log("joinpath:",__dirname+'\\test.txt');
+console.log("joinpath:",__dirname+'\\example.txt');
